@@ -1,8 +1,8 @@
 # Prediction Youth and Tobacco
  Some tasks for now:
-- Discover and Visualize the data to gain insights
+- Discover and Visualize the data to gain insights (Done)
 
--  Look for Correlations
+- Look for Correlations
 
 - Experimenting with Attribute Combinations
 
@@ -21,3 +21,11 @@
 - Transform feature encoding 
 
 - Dimensionality Reduction if applicable
+
+
+
+# Custom Imports
+You may have to download some custom imports in your kernal
+- do "pip install..."
+1. seaborn
+2. plotly
